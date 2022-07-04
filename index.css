@@ -1,0 +1,102 @@
+body{
+        background-color: black; }
+
+
+h2 {
+  margin-top: 50px;
+  font-size: 50px;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+ color: rgb(255, 59, 59);
+}
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    font-family: 'Ubuntu', sans-serif;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 7px;
+
+}
+  
+h1 {
+  margin-top: 100px;
+  font-size: 100px;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  color: rgb(255, 59, 59);
+}
+
+#cv{
+  display: block;
+  position: absolute;
+  top : 0;
+  left: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  
+}
+
+body, html
+{
+    margin: 0; padding: 0; height: 100%; overflow: hidden;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#000000;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #000000;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
+button {
+    width: 200px;
+    height: 48px;
+    background-color: rgb(255, 59, 59);
+    border: none;
+    border-radius: 8px;
+    font-family: 'Ubuntu', sans-serif;
+    display: grid;
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+a {
+text-decoration: none;
+color: black;
+font-size: 25px;
+font-family: 'Ubuntu', sans-serif;
+align-items: center;
+justify-content: center;
+text-align: center;
+margin: 7px;
+
+}
